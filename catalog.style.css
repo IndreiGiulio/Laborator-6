@@ -1,0 +1,37 @@
+body
+	{background-color:lightblue;}
+h1 
+	{color:green;}
+p
+	{color:lightblue}
+table 
+	{background-color:gray;}
+ul 
+	{background-color:solidblue;}
+table, tr, td,ul 
+	{border:3px solidblack}
+tr hover
+	{background-color:cyan;}
+
+h1
+	{font-family: "sans-serif";
+	font-style:bold;
+	font-size:30px}
+p
+{font-family: "Arial";
+font-size: 25px} 
+img
+	{border:3px;
+	border-radius:10px;
+	width:400px;
+	margin:left;
+	opacity:0.9;}
+a. linkcat {font-style:italic}
+#logocat
+	{border:3px;
+	border-radius:150px;
+	width:250px;
+	display:block;
+	margin:auto;
+	opacity:0.5;}
+		
